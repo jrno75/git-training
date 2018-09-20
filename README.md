@@ -6,3 +6,4 @@ e2,c4
 b1,c1
 bfeatureGFT,c1
 master,c1
+master,c2
